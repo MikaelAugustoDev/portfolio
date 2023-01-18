@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <main id="container">
+        <div id="calculadora">
+            <h2>
+                Calculadora de Juros Compostos
+            </h2>
+
+            <div id="inputbox">
+                <div class="inputfield">
+                    <label for="value">Valor Inicial</label>
+                    <input type="number" id="value">
+                </div>
+                <div class="inputfield">
+                    <label for="fee">Taxa de Juros a.m.</label>
+                    <input type="number" id="fee">
+                </div>
+                <div class="inputfield">
+                    <label for="time">Tempo de Rendimento a.m.</label>
+                    <input type="number" id="time">
+                </div>
+            </div>
+
+            <div id="resultado">
+                <h4>Resultado</h4>
+                <span id="total">
+                    R$ 0,00
+                </span>
+
+            </div>
+
+            <button id="calculate">
+                Calcular
+            </button>
+        </div>
+    </main>
+
+    <script type="text/javascript" src="./script.js"></script>
+    
+</body>
+</html>
