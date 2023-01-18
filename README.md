@@ -7,5 +7,7 @@ Estou a procura da primeira oportunidade de emprego na area de Desenvolvimento W
 Aqui esta algusn de meus projetos juntamente com um Portfólio para melhor
 vizualização das minahs habilidades de Desenvolvedor Júnior
 
+!!!Abra a pasta PAGES e entre em PORTIFOLIO.HTML (Pagina Inicial)!!!
+
 E-mail para contato : mikaelaugustodev@gmail.com
 Whatsapp : +55 (35) 9 9856-5922
